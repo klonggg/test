@@ -1,4 +1,4 @@
-export const listBank = [
+[
   {
     code: '970436',
     value: 'Vietcombank_NH TMCP Ngoai thuong VN (VCB)',
