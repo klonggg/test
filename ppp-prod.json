@@ -9,6 +9,7 @@
 				"ca-app-pub-9231631716888498/6961202004"
 			],
 			"nativeIds": [
+				"ca-app-pub-9231631716888498/8604238542"
 			],
 			"rewardIds": [
 			]
@@ -54,7 +55,7 @@
 			"openads": "admob",
 			"banners": "admob",
 			"inters": "admob",
-			"nativees": "",
+			"nativees": "admob",
 			"rewards": ""
 		}
 	},
